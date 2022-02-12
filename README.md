@@ -8,4 +8,5 @@ Heroku does not currently possible to have a websockets server running alongside
 
 ## Preview
 
-![image](https://user-images.githubusercontent.com/39691265/153716714-ea373797-7dbf-41c9-9fa3-5a42d643adb8.png)
+![image](https://user-images.githubusercontent.com/39691265/153716848-7cbd7e2c-4c46-4df3-8fb1-7c5f31a57d65.png)
+
