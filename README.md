@@ -1,4 +1,4 @@
-# Chat: Using Laravel Websockets with Vue 
+# Chat: Using Laravel Websockets and Vue 
 
 Click [this link](https://cates-chat.herokuapp.com) for demo. 
 
