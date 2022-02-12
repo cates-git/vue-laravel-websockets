@@ -1,6 +1,6 @@
 # Chat: Using Laravel Websockets and Vue 
 
-Click [this link](https://cates-chat.herokuapp.com) for demo. 
+Check [https://cates-chat.herokuapp.com](https://cates-chat.herokuapp.com) for demo. 
 
 `Live chat will not work in demo`
 
